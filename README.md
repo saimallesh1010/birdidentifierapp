@@ -43,22 +43,5 @@ cd birdidentifierapp
 
 
 
-## 📸 Screenshots
 
-#### 🔐 Login Page
-![Login](screenshots/loginpage.jpg)
 
-### 📝 Signup Page
-![Signup](screenshots/signup.jpg)
-
-### 🔑 Reset Password
-![Reset](screenshots/resetpassword.jpg)
-
-### 🐦 Main Page
-![Main](screenshots/Mainpage.jpg)
-
-### 🔍 Prediction
-![Prediction](screenshots/prediction.jpg)
-
-### 🗂️ History
-![History](screenshots/history.jpg)
