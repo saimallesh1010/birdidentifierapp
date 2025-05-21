@@ -1,47 +1,49 @@
-.login-page {
-  background-image: url('./namste.jpg');
+/* Apply background to full screen */
+
+/* Centered login container */
+.login-container {
   height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-size: cover;
 }
 
+/* White card box */
 .login-box {
-  background-color: rgba(255, 255, 255, 0.9);
-  padding: 30px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2);
-  max-width: 400px;
+  background: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.15);
   width: 100%;
+  max-width: 400px;
+}
+
+.login-box h2 {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .login-box input {
   width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
-  border-radius: 5px;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 6px;
   border: 1px solid #ccc;
 }
 
-.login-btn {
+.login-box button {
   width: 100%;
   padding: 12px;
+  margin-top: 20px;
   background-color: #4caf50;
-  color: #fff;
   border: none;
-  border-radius: 5px;
+  color: white;
   font-size: 16px;
+  border-radius: 6px;
   cursor: pointer;
 }
 
-.login-message {
-  margin-top: 15px;
+.login-box p {
   text-align: center;
-  color: red;
-}
-
-.login-link {
-  text-align: center;
-  margin-top: 15px;
+  margin-top: 16px;
 }
