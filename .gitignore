@@ -1,0 +1,8 @@
+venv/
+.venv/
+server/venv/
+server/.venv/
+uploads/
+server/dataset/
+node_modules/
+.env
