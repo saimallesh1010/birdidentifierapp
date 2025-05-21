@@ -33,13 +33,13 @@ A full-stack web application that allows users to upload bird images and receive
 git clone https://github.com/saimallesh1010/birdidentifierapp.git
 cd birdidentifierapp
 
-## 📸 Screenshots
 
-### 🔐 Login Page
-![Login](screenshots/loginpage.JPG)
 
-### 🐦 Prediction
-![Prediction](screenshots/prediction.JPG)
 
-### 🗂️ History
-![History](screenshots/history.JPG)
+
+
+
+
+
+
+
