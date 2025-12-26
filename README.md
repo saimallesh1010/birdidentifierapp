@@ -32,8 +32,13 @@ The Bird Identifier App simplifies this process by combining a trained deep lear
 
 Below are key screens from the Bird Identifier application, highlighting the image upload flow, prediction results, and history tracking.
 ![Login](screenshots/loginpage.JPG)
+the page for uploading image 
 ![Image Upload](screenshots/Mainpage.JPG)
+
+this is how the prediction is displayed
 ![Prediction Result](screenshots/prediction.JPG)
+
+This is the representation of history page which enables deleting of history also
 ![Prediction History](screenshots/history.JPG)
 
 
