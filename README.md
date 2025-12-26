@@ -49,15 +49,3 @@ This is the representation of history page which enables deleting of history als
 git clone https://github.com/saimallesh1010/birdidentifierapp.git
 cd birdidentifierapp
 
-
-
-
-
-
-
-
-
-
-
-
-
