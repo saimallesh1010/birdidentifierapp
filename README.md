@@ -17,16 +17,18 @@ The Bird Identifier App simplifies this process by combining a trained deep lear
 
 ---
 
-## Tech Stack
+
+## 🖥️ Tech Stack
 
 | Layer     | Tech Stack                          |
-|-----------|--------------------------------------|
-| Frontend  | React, CSS                          |
-| Backend   | Node.js, Express.js, MongoDB (Atlas) |
-| ML Model  | Python, TensorFlow, CUB-200 Dataset |
-| Utilities | Multer (file upload), Vercel (optional) |
+|----------|--------------------------------------
+| Frontend | React, CSS                           |
+| Backend  | Node.js, Express.js, REST APIs       |
+| Auth     | JWT-based authentication             |
+| Database | MongoDB (Atlas)                      |
+| ML Model | Python, TensorFlow, CUB-200 Dataset  |
+| Utilities| Multer (file upload), Image preprocessing |
 
----
 
 ## Screenshots
 
